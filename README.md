@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project demonstrates Continuous Integration (CI) using GitHub Webhooks with SCM and Jenkins.
+This project demonstrates Continuous Integration (CI) using GitHub Webhooks and Jenkins.
 
 ## Workflow
 
