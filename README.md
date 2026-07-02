@@ -1,8 +1,8 @@
-# Jenkins GitHub Webhook Demo
+# Jenkins GitHub Webhook Demo with SCM
 
 ## Objective
 
-This project demonstrates Continuous Integration (CI) using GitHub Webhooks and Jenkins.
+This project demonstrates Continuous Integration (CI) using GitHub Webhooks with SCM and Jenkins.
 
 ## Workflow
 
